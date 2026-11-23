@@ -150,3 +150,9 @@ The best reported ANN configuration achieved an R² of 0.6551 using three hidden
 - Develop personalised habit recommendations.
 - Validate models using independently collected datasets.
 - Build a privacy-conscious application prototype.
+
+This project was collaboratively developed by a team of 4 members as an exploration of Machine Learning and Deep Learning techniques across regression and classification problems.
+
+The project involved data preprocessing, exploratory analysis, model development, experimentation, performance evaluation, and comparison of multiple algorithms.
+
+Drive Link: https://drive.google.com/drive/folders/1gAQaC-0AtG178J6GA3ZrvYjrcWo9NjhG?usp=sharing
