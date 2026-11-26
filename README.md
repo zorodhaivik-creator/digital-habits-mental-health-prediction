@@ -1,4 +1,4 @@
-# digital-habits-mental-health-prediction
+# UNP_ML_REGRESSION_PROJECT_DIGITAL_HABITS_VS_MENTAL_HEALTH_USING_PYTHON
 Machine Learning regression project analysing digital habits, screen time, sleep and stress to predict mood scores using multiple ML algorithms and Artificial Neural Networks.
 # Digital Habits vs Mental Health
 
